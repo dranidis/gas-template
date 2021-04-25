@@ -16,7 +16,7 @@ npm i -S @types/google-apps-script
 
 ## Edit the .clasp.json file
 
-Paster the id of the google doc
+Paste the id of the google doc
 
 ## Login
 
